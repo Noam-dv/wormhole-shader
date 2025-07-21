@@ -3,6 +3,9 @@
 A physically accurate rendering of an Ellis wormhole based on real geometry no shortcuts or raymarching cheats
 This shader simulates geodesic motion through a wormhole using actual differential geometry dynamically warping light paths and offering a realistic visual transition between two seperate areas
 
+Based on another shader i saw on shadertoy
+some logic was kept but most rewritten 
+
 <table>
   <tr>
     <td><img src="Screenshot 2025-07-22 004021.png" width="400"/></td>
